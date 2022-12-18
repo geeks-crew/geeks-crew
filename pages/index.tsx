@@ -26,6 +26,16 @@ export default function Home() {
           >
             Welcome to Geeks Crew
           </Text>
+          <Text
+            css={{
+              textAlign: 'center',
+              color: '$white700',
+              fontSize: '$3xl',
+              padding: '$2 $4',
+            }}
+          >
+            “Opportunities don't happen, you create them.”
+          </Text>
         </div>
       </main>
     </>
