@@ -34,7 +34,7 @@ export default function Home() {
               padding: '$2 $4',
             }}
           >
-            “Opportunities don't happen, you create them.”
+            “Opportunities do not happen, you create them.”
           </Text>
         </div>
       </main>
